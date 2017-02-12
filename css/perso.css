@@ -1,0 +1,34 @@
+.temoignage p{
+    font-family:'Bad Script', cursive;
+    font-size: x-large;
+}
+
+[class*="col-"].gris {
+    background-color: lightgray;
+    border:solid 1px white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navbar-perso{
+    background-color : lightgray;
+    color : black;
+}
+
+.navbar-brand{
+    color : black;
+}
+
+.navbar-nav nav{
+    color : black;
+}
+
+.perso a{
+    color : black;
+}
+.h1{
+    margin-left: 10px;
+}
+.a:hover{
+    color : black;
+}
